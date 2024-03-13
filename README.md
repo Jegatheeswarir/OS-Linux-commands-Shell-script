@@ -1414,7 +1414,7 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
+
 ## OUTPUT 
 Enter the number
 121
@@ -1429,5 +1429,3 @@ The Commands are executed successfully.
 
 
 
-# RESULT:
-The Commands are executed successfully.
